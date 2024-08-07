@@ -1,0 +1,3 @@
+/home/omer/CLionProjects/untitled4/cmake-build-debug/CMakeFiles/untitled4.dir
+/home/omer/CLionProjects/untitled4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/omer/CLionProjects/untitled4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
