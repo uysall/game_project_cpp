@@ -30,7 +30,7 @@ int main() {
 
     void Draw(); {
         //ekrandaki yılanı ve meyveyi çizen fonksiyon
-        system("clear"); //ekranı temizler bu sayede çizimler üst üste gelmez!
+        system("clear"); //ekranı temizler bu sayede çizimler üst üste gelmez!!
         for (int i = 0; i < WIDTH + 2; i++)
             std::cout << "#"; // üst sınırı # ile çizer
         std::cout << std::endl;
